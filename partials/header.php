@@ -7,6 +7,7 @@ $uri = $_SERVER["REQUEST_URI"];
 
     <div class="header-partners xlarge-8 large-8 medium-10 columns">
 
+
       <a href="http://www.gazprom-neft.ru/" class="partners-logo partner_type_general">
                     <span class="partner-title">
                       Генеральный партнер
@@ -20,6 +21,7 @@ $uri = $_SERVER["REQUEST_URI"];
                     </span>
         <img class="partner-img" src="/assets/img/findir_logo.png" />
       </a>
+        <a href="/en/" class="b-change-lang b-change-lang_en">En</a>
 
     </div>
 

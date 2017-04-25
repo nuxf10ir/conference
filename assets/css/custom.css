@@ -1,0 +1,33 @@
+.b-change-lang {
+    width: 30px;
+    height: 22.5px;
+    float: right;
+    text-indent: -9999px;
+    background-size: contain !important;
+    margin-right: 18px;
+    margin-top: 18px;
+}
+
+.b-change-lang_en {
+    background: url(/assets/img/gb.svg) center center no-repeat;
+}
+
+.b-change-lang_ru {
+    background: url(/assets/img/ru.svg) center center no-repeat;
+}
+
+@media (min-width: 1024px) and (max-width: 1034px) {
+    .header-partners.xlarge-8.large-8.medium-10.columns {
+        padding-left: 0px;
+    }
+}
+
+@media (max-width: 380px) {
+    .b-change-lang {
+        position: fixed;
+        bottom: 18px;
+        right: 18px;
+        z-index: 9999;
+        margin: 0;
+    }
+}
