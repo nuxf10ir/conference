@@ -6,109 +6,22 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Международная конференция финансовых директоров CFO 4.0</title>
-    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="/assets/css/app.css">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <base href="./" />
+    <!--<base href="./" />-->
   </head>
   <body>
 
     <div class="off-canvas-wrapper">
 
       <div class="off-canvas position-right" id="offCanvas" data-off-canvas>
-
-        <ul class="vertical menu mobile-menu">
-          <li class="item item_nav_index item_state_active">
-            <a href="index.html">О конференции</a>
-          </li>
-          <li class="item item_nav_program">
-            <a href="program.html">Программа</a>
-          </li>
-          <!--<li class="item item_nav_speakers">
-            <a href="speakers.html">Кто выступит</a>
-          </li>
-          <li class="item item_nav_partners">
-            <a href="partners.html">Партнеры</a>
-          </li>-->
-          <li class="item item_nav_place">
-            <a href="place.html">Место проведения</a>
-          </li>
-          <li class="item item_nav_contacts">
-            <a href="contacts.html">Контакты</a>
-          </li>
-        </ul>
-
+        <?php include_once(getcwd() . '/partials/mobile.php'); ?>
       </div>
 
       <div class="off-canvas-content" data-off-canvas-content>
         <div class="row">
           <div class="xlarge-16 large-14 large-centered medium-14 medium-centered small-14 small-centered xsmall-14 xsmall-centered xxsmall-14 xxsmall-centered columns">
-            <header class="header">
-              <div class="row">
-
-                <div class="header-partners xlarge-8 large-8 medium-10 columns">
-
-                  <a href="http://www.gazprom-neft.ru/" class="partners-logo partner_type_general">
-                    <span class="partner-title">
-                      Генеральный партнер
-                    </span>
-                    <img class="partner-img" src="assets/img/gazprom_logo.png" />
-                  </a>
-
-                  <a href="http://www.1fd.ru/" class="partners-logo partner_type_organizer">
-                    <span class="partner-title">
-                      Организатор
-                    </span>
-                    <img class="partner-img" src="assets/img/findir_logo.png" />
-                  </a>
-
-
-                </div>
-
-                <div class="header-logo xlarge-8 large-8 medium-6 columns">
-                  <a class="link float-left" href="index.html">
-                    <img src="assets/img/logo.svg" />
-                  </a>
-                  <button type="button" class="menu-icon float-right hide-for-medium menu-button" data-toggle="offCanvas"></button>
-                </div>
-
-
-
-
-
-              </div>
-
-              <div class="row column">
-
-                <nav id="navigation"
-                     class="nav float-right show-for-medium">
-                  <ul class="nav-list">
-                    <li class="item item_nav_index item_state_active">
-                      <a href="index.html">О конференции</a>
-                    </li>
-                    <li class="item item_nav_program">
-                      <a href="program.html">Программа</a>
-                    </li>
-                    <!--<li class="item item_nav_speakers">
-                      <a href="speakers.html">Кто выступит</a>
-                    </li>
-                    <li class="item item_nav_partners">
-                      <a href="partners.html">Партнеры</a>
-                    </li>-->
-                    <li class="item item_nav_place">
-                      <a href="place.html">Место проведения</a>
-                    </li>
-                    <li class="item item_nav_contacts">
-                      <a href="contacts.html">Контакты</a>
-                    </li>
-                  </ul>
-                </nav>
-
-              </div>
-
-
-            </header>
-
-
+            <?php include_once(getcwd() . '/partials/header.php'); ?>
           </div>
         </div>
         <div class="row">
@@ -176,16 +89,10 @@
 
 
       </div>
-
-      <footer class="footer">
-        <div class="row xlarge-16 large-14 large-centered medium-14 medium-centered small-14 small-centered xsmall-14 xsmall-centered xxsmall-14 xxsmall-centered columns">
-          <p class="footer-copyright">&copy; Актион управление и&nbsp;финансы, Медиагруппа Актион-МЦФЭР, 2007&nbsp;&mdash; 2017</p>
-        </div>
-
-      </footer>
+      <?php include_once(getcwd() . '/partials/footer.php'); ?>
 
     </div>
 
-    <script src="assets/js/app.js"></script>
+    <script src="/assets/js/app.js"></script>
   </body>
 </html>
