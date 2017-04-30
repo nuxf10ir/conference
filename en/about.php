@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Международная конференция финансовых директоров CFO 4.0</title>
+    <title>International conference CFO 4.0</title>
     <link rel="stylesheet" href="/assets/css/app.css">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!--<base href="./" />-->
@@ -29,57 +29,57 @@
 
             <article class="content content_type_about large-12 float-left" role="content">
               <h1 class="content-title">
-                О чем пойдет речь
+                Main questions:
               </h1>
               <div class="about-info row column">
                 <div class="large-offset-1 large-15 columns">
                   <div class="resume ">
-                    Вслед за изменениями, которые претерпевают компании, меняется роль финансового директора. Какое влияние оказывает на профессию цифровая революция, риски, борьба за эффективность &ndash; на конференции обсудят финансовые директора и <nobr>топ-менеджмент</nobr> крупных компаний и&nbsp;корпораций.
+                    CFO Role tends to transform into a&nbsp;Business Partner. We see the following driving forces: industry &&nbsp;environment digitalization, tough competition for performance effectiveness &&nbsp;efficiency, and increased expectations from risk management to&nbsp;address volatility.
                   </div>
                   <div class="themes">
                     <h2 class="themes-title">
-                      Список тем
+                      Main topics:
                     </h2>
                     <ul class="themes-list">
                       <li class="theme-item">
-                        Тенденции трансформации роли финансового директора
+                        CFO role Transformation trends
                       </li>
                       <li class="theme-item">
-                        Финансовая стратегия компании
+                        Successful Business Partner models for CFO
                       </li>
                       <li class="theme-item">
-                        Развитие организационного потенциала финансовой службы и лидерство
+                        White collar robots – Big Data and AI technology for CFO
                       </li>
                       <li class="theme-item">
-                        Успешные модели бизнес-партнерства
+                        CFO Leadership for performance & operational efficiency projects
                       </li>
                       <li class="theme-item">
-                        Big Data и искусственный интеллект на службе финансового директора
+                        Risk and uncertainty management
                       </li>
                       <li class="theme-item">
-                        Развитие систем бизнес планирования. Beyond Budgeting
+                        Adapting Financial strategy
                       </li>
                       <li class="theme-item">
-                        Механизмы и стратегии управления рисками
+                        CFO Team skills, leadership and capacity development
                       </li>
                     </ul>
                   </div>
                 </div>
               </div>
-              <a class="widget widget_type_link-back" href="index.html">
-                на главную
+              <a class="widget widget_type_link-back" href="/en/">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home
                 <ico class="ico ico_type_arrow-back" />
               </a>
             </article>
             
             <aside class="aside aside_type_about xlarge-2 large-3 float-right">
-              <a class="aside-link float-left" href="./file/Tizer.pdf" download>
+              <a class="aside-link float-left" href="/file/Teaser.pdf" download>
                 <div class="ico ico_type_download"></div>
-                <div class="note">Скачать презентацию</div>
+                <div class="note">Teaser</div>
               </a>
-              <a class="aside-link float-left" href="./file/Conference.pdf">
+              <a class="aside-link float-left" href="/file/Program.pdf">
                 <div class="ico ico_type_document"></div>
-                <div class="note">Открыть программу</div>
+                <div class="note">Program</div>
               </a>
             </aside>
 

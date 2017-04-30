@@ -66,18 +66,18 @@
                   </div>
                 </div>
               </div>
-              <a class="widget widget_type_link-back" href="index.html">
+              <a class="widget widget_type_link-back" href="/">
                 на главную
                 <ico class="ico ico_type_arrow-back" />
               </a>
             </article>
             
             <aside class="aside aside_type_about xlarge-2 large-3 float-right">
-              <a class="aside-link float-left" href="./file/Tizer.pdf" download>
+              <a class="aside-link float-left" href="../file/Teaser.pdf" download>
                 <div class="ico ico_type_download"></div>
                 <div class="note">Скачать презентацию</div>
               </a>
-              <a class="aside-link float-left" href="./file/Conference.pdf">
+              <a class="aside-link float-left" href="../file/Program.pdf">
                 <div class="ico ico_type_document"></div>
                 <div class="note">Открыть программу</div>
               </a>

@@ -16,7 +16,7 @@ $uri = $_SERVER["REQUEST_URI"];
       </a>
 
       <a href="http://www.1fd.ru/" class="partners-logo partner_type_organizer">
-                    <span class="partner-title">
+                    <span class="partner-title" style="text-align:center;">
                       Организатор
                     </span>
         <img class="partner-img" src="/assets/img/findir_logo.png" />

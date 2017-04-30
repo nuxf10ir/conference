@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Международная конференция финансовых директоров CFO 4.0</title>
+    <title>International conference CFO 4.0</title>
     <link rel="stylesheet" href="/assets/css/app.css">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!--<base href="./" />-->
@@ -31,37 +31,37 @@
               <div class="widgets-wrapper">
                 <div class="widget widget_type_date">
                   <div class="widget_in">
-                    16 июня 2017,
-                    Санкт-Петербург
+                    June 16, 2017<br/>
+                    ST. Petersburg, Russia
                   </div>
                 </div>
                 <div class="widget widget_type_event">
                   <div class="widget_in">
-                    <div class="sup-title">Международная конференция финансовых директоров</div>
-                    <div class="title">Финансовый директор 4.0:</div>
-                    <div class="sub-title">реальная трансформация</div>
+                    <div class="sup-title">International conference for CFO and planning, performance management</div>
+                    <div class="title">CFO 4.0:</div>
+                    <div class="sub-title">REAL TRANSFORMATION</div>
                   </div>
                 </div>
-                <a class="widget widget_type_link" href="/about/">
-                  О чем пойдет речь
+                <a class="widget widget_type_link" href="/en/about/">
+                  Main questions
                   <ico class="ico ico_type_arrow" />
                 </a>
                 <div class="widget widget_type_numbers widget_index_1">
                   <div class="widget_in">
                     <div class="number">17</div>
-                    <div class="note">выдающихся финансовых директоров и экспертов поделятся своим опытом</div>
+                    <div class="note">CFOs and experts share expertise</div>
                   </div>
                 </div>
                 <div class="widget widget_type_numbers widget_index_2">
                   <div class="widget_in">
                     <div class="number">120</div>
-                    <div class="note">участников, среди которых CFO крупных российских и иностранных компаний</div>
+                    <div class="note">participants including CFOs of industrial International and Russian companies</div>
                   </div>
                 </div>
                 <div class="widget widget_type_numbers widget_index_3">
                   <div class="widget_in">
                     <div class="number">4</div>
-                    <div class="note">интерактивных круглых стола для обмена мнениями и опытом</div>
+                    <div class="note">round table discussions</div>
                   </div>
                 </div>
               </div>

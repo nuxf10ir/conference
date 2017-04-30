@@ -54,7 +54,7 @@
                   <li class="is-active orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/jurgen_wagner_355.png" />
+                        <img class="" src="../photo/jurgen_wagner_355.png" />
                         <div class="sub-text">
                           <div class="speaker-name">Юрген Вагнер</div>
                           <div class="speaker-resume">
@@ -63,15 +63,15 @@
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Dr. Jürgen Wagner<br/>Head of Financial Disclosure and Corporate Performance Controlling, Siemens</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Dr. Jürgen Wagner<br/>Head of Financial Disclosure and Corporate Performance Controlling, Siemens</div>-->
                       </div>
                     </div>
                   </li>
                   <li class="orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/solomon_355.png" />
+                        <img class="" src="../photo/solomon_355.png" />
                         <div class="sub-text">
                           <div class="speaker-name">Николай Соломон</div>
                           <div class="speaker-resume">
@@ -80,15 +80,15 @@
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Nikolay Solomon<br/>First Deputy Director General for Corporate Functions and Chief Financial Officer, ROSATOM</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Nikolay Solomon<br/>First Deputy Director General for Corporate Functions and Chief Financial Officer, ROSATOM</div>-->
                       </div>
                     </div>
                   </li>
                   <li class="orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/bjarte_bogsnes_355.png" />
+                        <img class="" src="../photo/bjarte_bogsnes_355.png" />
                         <div class="sub-text">
                           <div class="speaker-name">Бьярте Богснес</div>
                           <div class="speaker-resume">
@@ -97,32 +97,32 @@
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Bjarte Bogsnes<br/>Performance Management Development, CFO Performance Management and Risk, STATOIL</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Bjarte Bogsnes<br/>Performance Management Development, CFO Performance Management and Risk, STATOIL</div>-->
                       </div>
                     </div>
                   </li>
                   <li class="orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/marie-ann_popp_355.png" />
+                        <img class="" src="../photo/marie-ann_popp_355.png" />
                         <div class="sub-text">
-                          <div class="speaker-name">Мэри-Энн Попп</div>
+                          <div class="speaker-name">Мари-Энн Попп</div>
                           <div class="speaker-resume">
-                            главный финансовый директор, GE
+                            Финансовый директор в России и СНГ, GE
                           </div>
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Marie-Anne Popp<br/>Chief Financial Officer, GE</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Marie-Anne Popp<br/>Chief Financial Officer, GE</div>-->
                       </div>
                     </div>
                   </li>
                   <li class="orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/popov_355.png" />
+                        <img class="" src="../photo/popov_355.png" />
                         <div class="sub-text">
                           <div class="speaker-name">Павел Попов</div>
                           <div class="speaker-resume">
@@ -131,15 +131,15 @@
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Pavel Popov<br/>First Deputy CEO, ORKK</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Pavel Popov<br/>First Deputy CEO, ORKK</div>-->
                       </div>
                     </div>
                   </li>
                   <li class="orbit-slide">
                     <div class="row large-up-2 medium-up-1">
                       <div class="column column-block speaker-block">
-                        <img class="" src="photo/kulichenko_355.png" />
+                        <img class="" src="../photo/kulichenko_355.png" />
                         <div class="sub-text">
                           <div class="speaker-name">Алексей Куличенко</div>
                           <div class="speaker-resume">
@@ -148,8 +148,8 @@
                         </div>
                       </div>
                       <div class="column column-block lection-block">
-                        <!--<div class="lection-time">16:45</div>-->
-                        <div class="lection-theme">Alexey Kulichenko<br/>Chief Financial Officer, Severstal</div>
+                        <!--<div class="lection-time">16:45</div>
+                        <div class="lection-theme">Alexey Kulichenko<br/>Chief Financial Officer, Severstal</div>-->
                       </div>
                     </div>
                   </li>
@@ -232,22 +232,22 @@
                 </ul>
                 <nav class="orbit-bullets">
                   <button class="is-active" data-slide="0">
-                    <img class="show-for-medium" src="photo/jurgen_wagner_100.png" />
+                    <img class="show-for-medium" src="../photo/jurgen_wagner_100.png" />
                   </button>
                   <button data-slide="1">
-                    <img class="show-for-medium" src="photo/solomon_100.png" />
+                    <img class="show-for-medium" src="../photo/solomon_100.png" />
                   </button>
                   <button data-slide="2">
-                    <img class="show-for-medium" src="photo/bjarte_bogsnes_100.png" />
+                    <img class="show-for-medium" src="../photo/bjarte_bogsnes_100.png" />
                   </button>
                   <button data-slide="3">
-                    <img class="show-for-medium" src="photo/marie-ann_popp_100.png" />
+                    <img class="show-for-medium" src="../photo/marie-ann_popp_100.png" />
                   </button>
                   <button data-slide="4">
-                    <img class="show-for-medium" src="photo/popov_100.png" />
+                    <img class="show-for-medium" src="../photo/popov_100.png" />
                   </button>
                   <button data-slide="5">
-                    <img class="show-for-medium" src="photo/kulichenko_100.png" />
+                    <img class="show-for-medium" src="../photo/kulichenko_100.png" />
                   </button>
                   <!--<button data-slide="6">
                     <img class="show-for-medium" src="/assets/img/speaker_small.png" />

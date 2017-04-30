@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Международная конференция финансовых директоров CFO 4.0</title>
+    <title>International conference CFO 4.0</title>
     <link rel="stylesheet" href="/assets/css/app.css">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
     <base href="./" />
@@ -29,7 +29,7 @@
 
             <article class="content content_type_partners" role="content">
               <h1 class="content-title">
-                Место проведения
+                Conference Venue
               </h1>
               <div class="row">
                 <div class="place-photo xlarge-6 large-16 columns">
@@ -40,12 +40,12 @@
                   </div>
                   <img class="" src="/assets/img/hotel.png" />
                   <div class="sub-text">
-                    Санкт-Петербург, Вознесенский пр., д.1
+                    St. Petersburg, Voznesenskiy prospekt, 1
                   </div>
                 </div>
                 <div class="place-map xlarge-9 large-16 columns">
                   <div class="map-wrapper">
-                    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A898425ca5add0603b24147d634da89292f14c25bc337c538a1a8a93752979a49&amp;width=700&amp;height=620&amp;lang=ru_RU&amp;scroll=true"></script>
+                    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A898425ca5add0603b24147d634da89292f14c25bc337c538a1a8a93752979a49&amp;width=700&amp;height=620&amp;lang=en_US&amp;scroll=true"></script>
             
                   </div>
                 </div>
