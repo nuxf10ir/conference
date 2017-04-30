@@ -20,7 +20,7 @@ $uri = $_SERVER["REQUEST_URI"];
                     </span>
         <img class="partner-img" src="/assets/img/findir_logo.png" />
       </a>
-        <a href="/" class="b-change-lang b-change-lang_ru">Ru</a>
+        <a href="/" class="b-change-lang b-change-lang_ru">Рус</a>
 
     </div>
 
